@@ -1,0 +1,137 @@
+Ryan  Kuo  US  Citizen  |  954-397-3848  |  ryankuo11127@gmail.com  |  LinkedIn:  www.linkedin.com/in/ryan-kuo-ai |  GitHub:  github.com/ryankuo11127   EDUCATION  (Anticipating)  Bachelor’s  in  Computer  Science  Expected  May  2028  University  of  Central  Florida  Orlando,  FL  Associate’s  in  Computer  Science  Expected  May  2026  Valencia  College   Orlando,  FL  Coursework :  Object-Oriented  Programming,  Advanced  Java  Programming,  Python  Programming,  C  
+Programming,
+ 
+Intro
+ 
+to
+ 
+Programming
+ 
+Concepts,
+ 
+Data
+ 
+Structures
+ 
+and
+ 
+Algorithms
+ SKILLS  Programming :  Python,  Java,  JavaScript,  TypeScript,  SQL,  C++  Tools :  Git,  MongoDB,  SQLite,  Flask,  React.js,  MEAN  Stack,  REST  APIs,  Automation,  Data  Processing,  
+Agile
+ 
+Development,
+ 
+API
+ 
+Integration
+ 
+ WORK  EXPERIENCE  Software  Engineer  Intern   October  2025  –  December  2025  Orlando  O  Spencer   ●  Built  and  maintained  MEAN-stack  applications  implementing  5  full-stack  features  and  10  reusable  
+components
+ 
+using
+ 
+clean,
+ 
+modular,
+ 
+production-ready
+ 
+code.
+ ●  Optimized  web  application  performance,  quality,  and  responsiveness  by  identifying  bottlenecks,  
+debugging
+ 
+issues,
+ 
+and
+ 
+implementing
+ 
+targeted
+ 
+optimizations.
+ ●  Integrated  WordPress/CMS  solutions  and  collaborated  with  AI/ML  teams,  contributing  insights  on  
+machine-learning
+ 
+algorithms
+ 
+while
+ 
+improving
+ 
+code
+ 
+quality
+ 
+through
+ 
+automation
+ 
+and
+ 
+standards.
+ 
+Logistics  &  Data  Systems  Coordinator  January  2020  –  January  2022  U.S.  Army  Fort  Lee,  VA  ●  Managed  and  tracked  transportation  and  logistics  data  using  DTRACS  and  GCSS-Army  to  optimize  
+route
+ 
+planning
+ 
+and
+ 
+resource
+ 
+coordination.
+ ●  Developed  Excel-based  automation  tools  and  formulas  to  help  scheduling  and  data  accuracy.  ●  Worked  with  IT  teams  to  integrate  digital  solutions  for  all  departments.   
+PROJECTS  FreshTrack  |  Python,  Flask,  SQL,  Twilio  API  August  2025  ●  Designed  systems  that  track  inventory,  predict  spoilage,  send  alerts,  suggest  storage  temperatures,  
+and
+ 
+generate
+ 
+profitable
+ 
+specials.
+ ●  Built  with  Python,  Flask,  Twilio  API  (SMS  alerts),  and  SQL  for  real-time  inventory  and  pricing  
+management.
+ ●  Cut  food  waste  and  boosted  profits  through  automated  tracking  and  data-driven  pricing.   Map  Program  |  Java,  OOP,  HashMap,  Console  I/O                         January  2026  ●  Built  a  console-based  Java  application  using  object-oriented  design  and  hash-based  Map  collections  
+to
+ 
+support
+ 
+constant-time
+ 
+CRUD
+ 
+operations
+ 
+on
+ 
+address
+ 
+records.
+ ●  Designed  a  modular,  layered  architecture  with  Address,  AddressBook,  AddressBookController,  and  
+ConsoleIO
+ 
+classes
+ 
+to
+ 
+improve
+ 
+maintainability
+ 
+and
+ 
+separation
+ 
+of
+ 
+concerns.
+ ●  Implemented  a  menu-driven  interface  for  dynamic  insertion,  deletion,  search,  and  traversal  of  
+in-memory
+ 
+address
+ 
+data
+ 
+at
+ 
+runtime.

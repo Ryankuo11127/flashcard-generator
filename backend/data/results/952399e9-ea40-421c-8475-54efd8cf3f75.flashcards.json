@@ -1,0 +1,172 @@
+{
+  "deck_name": "Ryan Kuo - Resume Highlights",
+  "cards": [
+    {
+      "type": "Flashcard",
+      "front": "Name",
+      "back": "Ryan Kuo",
+      "tags": [
+        "Personal"
+      ]
+    },
+    {
+      "type": "Flashcard",
+      "front": "Citizenship",
+      "back": "US Citizen",
+      "tags": [
+        "Personal"
+      ]
+    },
+    {
+      "type": "Flashcard",
+      "front": "Email",
+      "back": "ryankuo11127@gmail.com",
+      "tags": [
+        "Contact"
+      ]
+    },
+    {
+      "type": "Flashcard",
+      "front": "LinkedIn Profile",
+      "back": "www.linkedin.com/in/ryan-kuo-ai",
+      "tags": [
+        "Contact"
+      ]
+    },
+    {
+      "type": "Flashcard",
+      "front": "GitHub Profile",
+      "back": "github.com/ryankuo11127",
+      "tags": [
+        "Contact"
+      ]
+    },
+    {
+      "type": "Flashcard",
+      "front": "Bachelor's Degree",
+      "back": "Computer Science, Expected May 2028, University of Central Florida",
+      "tags": [
+        "Education"
+      ]
+    },
+    {
+      "type": "Flashcard",
+      "front": "Associate's Degree",
+      "back": "Computer Science, Expected May 2026, Valencia College",
+      "tags": [
+        "Education"
+      ]
+    },
+    {
+      "type": "Flashcard",
+      "front": "Key Coursework",
+      "back": "Object-Oriented Programming, Advanced Java, Python, Data Structures",
+      "tags": [
+        "Education",
+        "Programming"
+      ]
+    },
+    {
+      "type": "Flashcard",
+      "front": "Programming Languages",
+      "back": "Python, Java, JavaScript, TypeScript, SQL, C++",
+      "tags": [
+        "Skills"
+      ]
+    },
+    {
+      "type": "Flashcard",
+      "front": "Development Tools",
+      "back": "Git, MongoDB, SQLite, Flask, React.js, MEAN Stack",
+      "tags": [
+        "Skills"
+      ]
+    },
+    {
+      "type": "Flashcard",
+      "front": "Internship Role",
+      "back": "Software Engineer Intern, October 2025 - December 2025, Orlando O Spencer",
+      "tags": [
+        "Work Experience"
+      ]
+    },
+    {
+      "type": "Flashcard",
+      "front": "Intern Experience",
+      "back": "Built MEAN-stack applications, optimized performance, collaborated with AI/ML teams",
+      "tags": [
+        "Work Experience",
+        "Internship"
+      ]
+    },
+    {
+      "type": "Flashcard",
+      "front": "Army Position",
+      "back": "Logistics & Data Systems Coordinator, January 2020 - January 2022, U.S. Army",
+      "tags": [
+        "Work Experience"
+      ]
+    },
+    {
+      "type": "Flashcard",
+      "front": "Excel Automation",
+      "back": "Developed automation tools for scheduling and data accuracy",
+      "tags": [
+        "Work Experience",
+        "Skills"
+      ]
+    },
+    {
+      "type": "Flashcard",
+      "front": "FreshTrack Project",
+      "back": "Real-time inventory management system using Python, Flask, SQL, and Twilio API",
+      "tags": [
+        "Project",
+        "Python"
+      ]
+    },
+    {
+      "type": "Flashcard",
+      "front": "Map Program Project",
+      "back": "Java application using OOP and HashMap for CRUD operations on addresses",
+      "tags": [
+        "Project",
+        "Java"
+      ]
+    },
+    {
+      "type": "Flashcard",
+      "front": "Map Program Features",
+      "back": "Modular architecture, menu-driven interface, dynamic address data handling",
+      "tags": [
+        "Project"
+      ]
+    },
+    {
+      "type": "Flashcard",
+      "front": "Focus of FreshTrack",
+      "back": "Cut food waste and boosted profits through automated tracking and data-driven pricing",
+      "tags": [
+        "Project",
+        "Profitability"
+      ]
+    },
+    {
+      "type": "Flashcard",
+      "front": "Agile Development",
+      "back": "A software development methodology focusing on iterative development and collaboration",
+      "tags": [
+        "Skills",
+        "Methodology"
+      ]
+    },
+    {
+      "type": "Flashcard",
+      "front": "API Integration",
+      "back": "Combining different software components to work together using APIs",
+      "tags": [
+        "Skills"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "deck_name": "Ryan Kuo - Resume Highlights",
+  "cards": [
+    {
+      "type": "flashcard",
+      "front": "Who is Ryan Kuo?",
+      "back": "A US Citizen and aspiring Software Engineer with a focus on Computer Science.",
+      "tags": [
+        "Personal",
+        "Biography"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "front": "Ryan Kuo's expected graduation from UCF?",
+      "back": "Bachelor’s in Computer Science, expected May 2028.",
+      "tags": [
+        "Education",
+        "University of Central Florida"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "front": "Ryan's Associate's degree expectation?",
+      "back": "Associate’s in Computer Science, expected May 2026, Valencia College.",
+      "tags": [
+        "Education",
+        "Valencia College"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "front": "Key programming languages Ryan knows?",
+      "back": "Python, Java, JavaScript, TypeScript, SQL, C++.",
+      "tags": [
+        "Skills",
+        "Programming"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "front": "Tools Ryan is proficient in?",
+      "back": "Git, MongoDB, SQLite, Flask, React.js, MEAN Stack.",
+      "tags": [
+        "Skills",
+        "Tools"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "front": "Ryan's role as a Software Engineer Intern?",
+      "back": "Built MEAN-stack applications and optimized web performance.",
+      "tags": [
+        "Work Experience",
+        "Internship"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "front": "Responsibilities as Logistics Coordinator?",
+      "back": "Managed transportation data, developed automation tools, integrated digital solutions.",
+      "tags": [
+        "Work Experience",
+        "U.S. Army"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "front": "Project FreshTrack's focus?",
+      "back": "Track inventory and reduce food waste using Python and Flask.",
+      "tags": [
+        "Project",
+        "Python"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "front": "Technologies used in FreshTrack?",
+      "back": "Python, Flask, SQL, Twilio API.",
+      "tags": [
+        "Project",
+        "Technologies"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "front": "Map Program development language?",
+      "back": "Java, using object-oriented programming techniques.",
+      "tags": [
+        "Project",
+        "Java"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "front": "What is CRUD in Map Program?",
+      "back": "Create, Read, Update, Delete operations on address records.",
+      "tags": [
+        "Project",
+        "CRUD"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "front": "What did Ryan optimize in his internship?",
+      "back": "Optimized web application performance, quality, and responsiveness.",
+      "tags": [
+        "Work Experience",
+        "Optimization"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "front": "What was Ryan's major in college?",
+      "back": "Computer Science, with coursework in various programming languages and concepts.",
+      "tags": [
+        "Education",
+        "College Major"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "front": "Ryan's collaboration during internship?",
+      "back": "Collaborated with AI/ML teams to enhance code quality and standards.",
+      "tags": [
+        "Work Experience",
+        "Collaboration"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "front": "Primary goal of FreshTrack?",
+      "back": "Cut food waste and boost profits through automated tracking.",
+      "tags": [
+        "Project",
+        "Goals"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "front": "What kind of applications did Ryan maintain as an intern?",
+      "back": "MEAN-stack applications with full-stack features and reusable components.",
+      "tags": [
+        "Work Experience",
+        "Development"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "front": "What tools did Ryan use for automation in logistics?",
+      "back": "Excel-based tools and formulas for scheduling and data accuracy.",
+      "tags": [
+        "Work Experience",
+        "Automation"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "front": "What architecture did Map Program utilize?",
+      "back": "Modular, layered architecture for maintainability and separation of concerns.",
+      "tags": [
+        "Project",
+        "Architecture"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "front": "What is REST API?",
+      "back": "A set of conventions for building and interacting with web services.",
+      "tags": [
+        "Skills",
+        "API"
+      ]
+    }
+  ]
+}
