@@ -12,6 +12,7 @@ from pypdf import PdfReader
 from docx import Document
 
 from pydantic import BaseModel, Field
+from fastapi.middleware.cors import CORSMiddleware
 
 
 # -----------------------------
@@ -25,10 +26,12 @@ if not os.getenv("OPENAI_API_KEY"):
 
 client = OpenAI()
 app = FastAPI()
-
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],
+    allow_origins=[
+        "http://localhost:3000",
+        "https://flashcard-generator-kappa.vercel.app",
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
