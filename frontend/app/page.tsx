@@ -2,7 +2,7 @@
 
 import React, { useMemo, useRef, useState } from "react";
 
-const API_BASE = "http://localhost:8000";
+const API_BASE = "https://flashcard-generator-ibbs.onrender.com";
 
 type Flashcard = { type?: string; front: string; back: string; tags?: string[] };
 type Deck = { deck_name: string; cards: Flashcard[] };
